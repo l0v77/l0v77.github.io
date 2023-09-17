@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhuojun Ma' Account"
+title                    : "Zhuojun Ma' Homepage"
 title_separator          : "-"
 name                     : &name "Zhuojun Ma"
 description              : &description "Graduate Student at UC Berkeley"
